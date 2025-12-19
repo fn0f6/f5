@@ -1,0 +1,5 @@
+{
+  "name": "SecureDash-Pro",
+  "description": "A professional, secure full-stack style application with role-based authentication (Admin/User), dashboards, and security best practices. Includes a reference implementation for Node.js/MongoDB backend.",
+  "requestFramePermissions": []
+}
